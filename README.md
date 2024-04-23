@@ -1,13 +1,13 @@
+<img src='image.jpg'  alt="image"></img>
+
 <h1 align="center">Hi 👋, I'm Naveenkumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenkumarbaraker&label=Profile%20views&color=0e75b6&style=flat" alt="naveenkumarbaraker" /> </p>
 
 - 🔭 I’m currently working on *Projects*
 
 - 🌱 I’m currently learning *Docker and Kubernetes*
-
-- 👯 I’m looking to collaborate on *Web Development*
 
 - 📫 How to reach me *naveenkumar.baraker@gmail.com*
 
