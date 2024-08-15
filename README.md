@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on *Projects*
 
-- 💻 For now learning *Docker and Kubernetes*
+- 💻 For now, learning *Docker and Kubernetes*
 
 -  📃 In my free time, I read tech articles and others.
 
