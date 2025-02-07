@@ -63,9 +63,7 @@
 <br>
 
 <h3 align="center">📊 My GitHub Stats:</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=naveenkumarbaraker&show_icons=true&locale=en" alt="naveenkumarbaraker" />
-</p>
+
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveenkumarbaraker&" alt="naveenkumarbaraker" />
