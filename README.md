@@ -104,7 +104,7 @@
 ## Trophies 🏆:
 <br>
 <p align='center'>
-<img src="https://github-profile-trophy.vercel.app/?username=naveenkumarbaraker&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15&no-bg=true">
+<img src="https://github-profile-trophy.vercel.app/?username=vivpm&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15&no-bg=true">
 </p>
 <hr>
 <br>
